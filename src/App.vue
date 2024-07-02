@@ -18,7 +18,7 @@
 export default {
   data: () => ({
     contador: 0,
-    mensaje: "Hola Mundo",
+    mensaje: "Hola Mundo v",
   }),
 
   methods: {
